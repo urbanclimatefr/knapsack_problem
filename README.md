@@ -1,5 +1,13 @@
 # 0/1 Knapsack Problem
 
 
-Simulated Annealing and Tabu Search are selected to solve the 0-1 knapsack problem because they are metaheuristics that can either avoid or escape the local optima. There are many of real-life applications of the knapsack problem. These applications are not limited to revenue management for airlines, financial modelling, as well as production and inventory control systems. For the chosen parameters, Simulated Annealing achieved an average total value of packing in 10 runs of 4413.6, while Tabu Search achieved that of 4378.0. In terms of the mentioned metric, Simulated Annealing is slightly better than Tabu Search. However, Simulated Annealing is a stochastic algorithm and Tabu Search is, on the other hand, a deterministic algorithm. The performance (total value of packing in each run) of Tabu Search is more stable than that of Simulated Annealing. In the future, further tuning and trials of parameters can be performed for the current Simulated Annealing and Tabu Search Algorithms. Parallelised Simulated Annealing algorithm and Quantum Inspired Tabu Search can be applied and implemented on 0-1 knapsack problem.
+Simulated Annealing and Tabu Search are selected to solve the 0-1 knapsack problem because they are metaheuristics that can either avoid or escape the local optima. There are many of real-life applications of the knapsack problem.
+
+For the chosen parameters, Simulated Annealing achieved an average total value of packing in 10 runs of 4413.6, while Tabu Search achieved that of 4378.0. In terms of the mentioned metric, Simulated Annealing is slightly better than Tabu Search. 
+
+However, Simulated Annealing is a stochastic algorithm and Tabu Search is, on the other hand, a deterministic algorithm. The performance (total value of packing in each run) of Tabu Search is more stable than that of Simulated Annealing. 
+
+In the future, further tuning and trials of parameters can be performed for the current Simulated Annealing and Tabu Search Algorithms. 
+
+Parallelised Simulated Annealing algorithm and Quantum Inspired Tabu Search can be applied and implemented on 0-1 knapsack problem.
 
