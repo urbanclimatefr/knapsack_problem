@@ -1,1 +1,1 @@
-# knapsack_problem
+# 0/1 Knapsack Problem
