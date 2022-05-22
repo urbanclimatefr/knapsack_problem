@@ -1,7 +1,7 @@
 # 0/1 Knapsack Problem
 
 In this repository, the files are organised as follows:
-- .ipynb file is the Jypyter notebook containing the source code.
+- .ipynb file is the Jypyter notebook containing the source code in Python.
 - .csv file is the input data of the 0/1 knapsack problem.
 - Asessment Brief.pdf contains the requirement of the problem.
 - report.pdf is the formal report detailing my implementation of the algorithms (Simulated Annealing and Tabu Search), the results of the  testing with analysis, and a formal conclusion. 
