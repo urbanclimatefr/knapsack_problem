@@ -1,5 +1,9 @@
 # 0/1 Knapsack Problem
 
+In this repository, the files are organised as follows:
+- .ipynb file is the Jypyter notebook containing the source code.
+- .csv file is the input data of the 0/1 knapsack problem.
+- Asessment Brief.pdf contains the requirement of the problem.
 
 Simulated Annealing and Tabu Search are selected to solve the 0-1 knapsack problem because they are metaheuristics that can either avoid or escape the local optima. There are many of real-life applications of the knapsack problem.
 
